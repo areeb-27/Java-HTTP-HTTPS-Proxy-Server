@@ -1,0 +1,9 @@
+# Compiled output
+out/
+bin/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.DS_Store
